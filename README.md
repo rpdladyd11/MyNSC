@@ -1,3 +1,3 @@
 # MyNSC
 
-SQL select * from employees
+SQL - select * from employees
